@@ -111,7 +111,7 @@ Most Valuable Customers & Products
 
 
 | Customer | Segment | Top Product |	Total Revenue|
-------- ---------- ------- ----- 
+|---| ---| ----|-----| 
 | John Lucas | 	Small Business | Chromcraft Bull-Nose Wood Conference Table | 	$37,919.43 |
 | Lycoris Saunders | Corporate | Bretford CR8500 Series Meeting Room Furniture | $30,948.18 |
 | Grant Carroll | Small Business | Fellowes PB500 Electric Punch | $26,485.12 |
